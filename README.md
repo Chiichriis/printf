@@ -1,6 +1,7 @@
-printf
-0x11. C - First Project Collaboration
-OVERVIEW
+# printf
+# 0x11. C - First Project Collaboration
+# OVERVIEW
+
 printf project is an ALX Collaboration project. The task is to reproduce a program that operates in like manner as the printf function in the standard C stdio.h library.
 
 Project Source:- Julien Barbier (CEO Holberton School). Language: C Programming
@@ -9,7 +10,7 @@ What you should learn from this project:
 
 How to use git in a team setting Applying variadic functions to a big project The complexities of printf Managing a lot of files and finding a good workflow
 
-REQUIREMENT
+# REQUIREMENT
 General requirement are as follows:
 
 Allowed editors: vi, vim, emacs
@@ -27,7 +28,7 @@ Note that we will not provide the _putchar function for this project.
 GitHub
 There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
 
-Authorized functions and macros
+# Authorized functions and macros
 write (man 2 write)
 malloc (man 3 malloc)
 free (man 3 free)
@@ -35,7 +36,8 @@ va_start (man 3 va_start)
 va_end (man 3 va_end)
 va_copy (man 3 va_copy)
 va_arg (man 3 va_arg)
-TASKS
+
+# TASKS
 These are all the tasks of this project, the ones that are completed link to the corresponding files.
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
@@ -90,6 +92,6 @@ R : prints the rot13'ed string
 15. *
 All the above options work well together.
 
-Authors
+# Authors
 OKORIE, Chinedu - chiichriis28@gmail.com 
-Isaac 
+Isaac Onyeakagbu - isaacwrites6@gmail.com 
